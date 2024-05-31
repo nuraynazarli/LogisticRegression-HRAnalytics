@@ -1,1 +1,1 @@
-# LogisticRegression-HRAnalytics
+# Logistic Regression for HR Analytics
